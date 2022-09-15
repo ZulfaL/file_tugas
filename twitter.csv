@@ -1,0 +1,80 @@
+Unnamed: 0,tweet,Label
+0,"['wacana', 'jokowi', 'wapres', 'sorot', 'media', 'asing', 'singgung', 'nama', 'soeharto', 'megawati']",kontra
+1,"['megawati', 'soekarnoputri', 'bicara', 'tara', 'forum', 'for', 'peace', 'and', 'prosperity', 'ajak', 'delegasi', 'negara', 'ide', 'basabasi']",pro
+2,"['sajak', 'pdip', 'feodal', 'tunggu', 'putus', 'organisasi', 'politik', 'anak', 'cucu', 'megawati', 'ya']",kontra
+3,"['megawati', 'modernisasi', 'lupa', 'pelihara', 'lingkung', 'hidup']",pro
+4,"['wakil', 'presiden', 'cocok', 'usung', 'juang', 'ri', 'serah', 'bu', 'megawati', 'putus']",kontra
+5,"['marm', 'nama', 'aja', 'bencong', 'lompat', 'pager', 'hina', 'kabur', 'urus', 'pribadi', 'poligami', 'kasi', 'bapak', 'megawati']",kontra
+6,"['sulit', 'erti', 'moga', 'kawan', 'ferdy', 'sambo', 'calon', 'istri', 'jeje', 'guru', 'ngaji', 'mu', 'samsudin', 'jadab', 'tabung', 'simpan', 'yusuf', 'mansur', 'mertua', 'megawati', 'rumah', 'jaga', 'pemuda', 'pancasila', 'moga', 'rendang', 'mu', 'lengkuas']",kontra
+7,"['megawati', 'tanam', 'pohon', 'jeju', 'makna', 'hubung', 'rikorea', 'lengkap']",pro
+8,"['megawati', 'spirit', 'pancasila', 'jeju', 'forum', 'korsel', 'lengkap']",pro
+9,"['kait', 'tolak', 'naik', 'harga', 'bbm', 'hal', 'upaya', 'bela', 'orangorang', 'kaya', 'guna', 'bahan', 'bakar', 'jenis', 'pertalite', 'dominasi', 'orang', 'bansosuntuk', 'wongcilik']",kontra
+10,"['indonesia', 'kalo', 'deket', 'rusia', 'yg', 'untung', 'ya', 'megawati', 'pdip', 'cina', 'lo', 'dimanfaatin', 'doang', 'sadar', 'gak']",kontra
+11,['megawati'],netral
+12,"['ga', 'megawati', 'yaaaah']",netral
+13,"['megawati', 'sukarnoputri', 'is', 'centrist']",kontra
+14,"['dgn', 'jadi', 'bu', 'megawati', 'gak', 'usung', 'ganjar', 'jd', 'capres', 'pdip']",pro
+15,"['apaapa', 'kait', 'politik', 'prabowo', 'aja', 'udah', 'rapat', 'megawati', 'segitu', 'mudah', 'giring', 'ya', 'bang', 'bjorka', 'sorot', 'lemah', 'sistem', 'aman', 'situssitus', 'perintah', 'kerja', 'kominfo', 'bahas', 'politik', 'politik', 'mah', 'kotor']",kontra
+16,"['gak', 'masuk', 'akal', 'pdip', 'menang', 'suara', 'kuasa', 'gimana', 'megawati', 'main', 'jadi', 'wahhh', 'ada', 'ngada', 'cak', 'iminnn']",kontra
+17,"['ketua', 'pdip', 'megawati', 'soekarnoputri', 'jamu', 'makan', 'malam', 'delegasi', 'negara', 'hadir', 'forum', 'for', 'peace', 'and', 'prosperity']",pro
+18,"['tum', 'pdip', 'megawati', 'soekarnoputri', 'bicara', 'kait', 'modernisasi', 'lingkung', 'sebut', 'modernisasi', 'orang', 'lupa', 'alam']",pro
+19,[],netral
+20,"['megawati', 'teknologi', 'alat', 'bantu', 'alam', 'beri', 'allahswt']",pro
+21,"['adu', 'domba', 'pimpin', 'tni', 'tlh', 'mantik', 'api', 'jiwa', 'korsa', 'prajurit', 'jgn', 'anggap', 'remeh', 'jk', 'juang', 'tdk', 'merecall', 'effendi', 'simbolon', 'mkd', 'ri', 'tdk', 'sidang', 'anggota', 'dewan', 'yg', 'arogan', 'amp', 'sok', 'pahlawan', 'krn', 'senior', 'ri', 'megawati', 'diam', 'tunggu', 'milu']",kontra
+22,['megawati'],kontra
+23,"['megawati', 'modernisasi', 'lupa', 'pelihara', 'lingkung', 'hidup']",pro
+24,"['damping', 'olly', 'megawati', 'ajak', 'umat', 'dunia', 'mencintailingkungan']",pro
+25,"['damping', 'olly', 'megawati', 'ajak', 'umat', 'dunia', 'mencintailingkungan']",pro
+26,"['megawati', 'ajak', 'delegasi', 'negara', 'jeju', 'forum', 'ide', 'tanpabasabasi']",pro
+27,"['megawati', 'teknologi', 'alat', 'bantu', 'alam', 'beri', 'allahswt']",pro
+28,"['megawati', 'nilai', 'modernisasi', 'bidang', 'lupa', 'pelihara', 'lingkung', 'hidup']",pro
+29,"['gapapatuhan', 'megawati', 'tum', 'partai']",kontra
+30,"['megawati', 'ajak', 'delegasi', 'negara', 'jeju', 'forum', 'ide', 'tanpabasabasi']",pro
+31,"['sangek', 'megawati', 'puan', 'maklum']",kontra
+32,"['wakati', 'na', 'kikundi', 'chake', 'wakiendelea', 'na', 'mgao', 'wa', 'umeme', 'jana', 'zambia', 'ilianza', 'kusafirisha', 'mw', 'za', 'umeme', 'nchini', 'namibia', 'megawati', 'nyingine', 'inatazamiwa', 'kusafirishwa', 'kwenda', 'zimbabwe', 'kwa', 'miaka', 'kwa', 'gharama', 'ya', 'milioni', 'mnaelewa', 'somo']",netral
+33,"['megawati', 'soekarnoputri', 'bicara', 'tara', 'forum', 'for', 'peace', 'and', 'prosperity', 'ajak', 'delegasi', 'negara', 'ide', 'basabasi']",pro
+34,"['kau', 'pecat', 'anjeng', 'pangkat', 'titel', 'indonesia', 'yunus', 'alh', 'king', 'subal', 'kau', 'residen', 'jokowi', 'dodo', 'megawati', 'soerkarno', 'putri', 'sebar', 'dunia', 'yasin']",kontra
+35,"['megawati', 'ban', 'ki', 'moon', 'hadir', 'welcoming', 'dinner', 'jeju', 'peace', 'forum']",pro
+36,"['megawati', 'ban', 'ki', 'moon', 'hadir', 'welcoming', 'dinner', 'jeju', 'peace', 'forum']",pro
+37,"['wakati', 'january', 'makamba', 'na', 'kikundi', 'chake', 'wakiendelea', 'na', 'mgao', 'wa', 'umeme', 'jana', 'zambia', 'ilianza', 'kusafirisha', 'mw', 'za', 'umeme', 'nchini', 'namibia', 'megawati', 'nyingine', 'inatazamiwa', 'kusafirishwa', 'kwenda', 'zimbabwe', 'kwa', 'miaka', 'kwa', 'gharama', 'ya', 'milioni', 'mnaelewa', 'somo']",netral
+38,"['kontol', 'kau', 'garuda', 'indonesia', 'soerkarno', 'kontol', 'pepek', 'mamak', 'megawati', 'jokowi', 'residen', 'kontol', 'kau', 'kau', 'anjeng', 'yunus', 'bambang', 'subal', 'desa', 'sialang', 'residen', 'jokowi', 'kontol', 'kau', 'negara', 'mu', 'indonesia']",kontra
+39,"['megawati', 'suara', 'damai', 'jeju', 'peace', 'forum']",pro
+40,"['megawati', 'modernisasi', 'lupa', 'lingkung']",pro
+41,"['hacker', 'bjorka', 'tawar', 'nitizen', 'kompak', 'nama', 'megawati']",kontra
+42,"['megawati', 'soekarnoputri', 'damping', 'olly', 'dondokambey', 'tanam', 'bibit', 'pohon', 'magnolia', 'wilayah', 'seogwipo', 'provinsi', 'jeju', 'korea', 'selatan']",pro
+43,"['anies', 'gatot', 'nurmantyo', 'anies', 'ahy', 'ganjar', 'harun', 'mas', 'puan', 'jokowi', 'prabowo', 'megawati']",pro
+44,"['warouw', 'emg', 'ad', 'ap', 'sih', 'tgl', 'an', 'berita', 'om', 'wkwk', 'karna', 'lg', 'sibuk', 'kerja']",netral
+45,"['megawati', 'soekarnoputri', 'kunker', 'jeju', 'korea', 'selatan', 'bawa', 'misi', 'presiden', 'jokowi', 'salah', 'satu', 'wujud', 'daulat', 'pangan', 'visi', 'brin']",pro
+46,['megawati'],netral
+47,"['megawati', 'soekarnoputri', 'saksi', 'penandatanganan', 'mou', 'brinkkp', 'teken', 'mou', 'jeju', 'national', 'university']",pro
+48,"['megawati', 'tanam', 'pohon', 'jeju', 'makna', 'hubung', 'rikorea', 'lengkap']",pro
+49,"['adik', 'megawati', 'om', 'nya', 'si', 'puan']",kontra
+50,"['tokoh', 'sperti', 'gt', 'sby', 'fa', 'budiono', 'megawati', 'dll', 'kosong', 'lets', 'book', 'make', 'the', 'account', 'and', 'get', 'verif']",kontra
+51,"['megawati', 'tanam', 'pohon', 'jeju', 'makna', 'hubung', 'rikorea', 'lengkap']",pro
+52,"['ketua', 'pdi', 'juang', 'megawati', 'soekarnoputri', 'milik', 'hubung', 'korea', 'selatan', 'korsel', 'korea', 'utara', 'korut', 'negara', 'megawati', 'keluarga']",pro
+53,"['megawati', 'tanam', 'pohon', 'jeju', 'makna', 'hubung', 'rikorea']",pro
+54,"['muhammad', 'said', 'fikriansyah', 'tangkap', 'bjorka', 'ngespill', 'data', 'megawati']",kontra
+55,"['megawati', 'diskriminasi', 'diri', 'rumah', 'ibadah', 'lengkap']",pro
+56,"['megawati', 'modernisasi', 'lupa', 'pelihara', 'lingkung', 'hidup']",pro
+57,"['muhaimin', 'iskandar', 'is', 'gus', 'dur', 'party', 'pkb', 'thief', 'ordered', 'by', 'megawati', 'vice', 'president']",kontra
+58,"['watch', 'indonesia', 'didu', 'ente', 'kadang', 'kadang', 'ente', 'masak', 'nggak', 'tau', 'ketua', 'dewan', 'arah', 'tuh', 'gelar', 'prof', 'hc', 'paper', 'baik', 'pimpin', 'megawati']",kontra
+59,"['kadrun', 'taon', 'ngomongnya', 'pki', 'mulu', 'megawati', 'jokowi', 'pdip', 'tuduh', 'pki', 'kl', 'pki', 'trus', 'soeharto', 'wkt', 'presiden', 'ngapain', 'bobol', 'gitu', 'nih', 'gw', 'kasih', 'liat', 'dokumen', 'bokap', 'gw', 'era', 'orba', 'megawati', 'pasti', 'jg', 'dibeginiin', 'jd', 'anggota', 'dpr']",kontra
+60,"['megawati', 'ban', 'ki', 'moon', 'hadir', 'welcoming', 'dinner', 'jeju', 'peace', 'forum']",pro
+61,"['presidential', 'threshold', 'koalisi', 'utk', 'lawan', 'megawati']",kontra
+62,['megawati'],netral
+63,"['ajak', 'dunia', 'cinta', 'lingkung', 'megawati', 'damping', 'gubernur', 'olly', 'tanam', 'pohon', 'jeju', 'korsel']",pro
+64,"['megawati', 'dorong', 'jeju', 'forum', 'pikir', 'baik', 'bagiperdamaian']",pro
+65,"['jalan', 'presiden', 'jokowi', 'megawati', 'soekarnoputri', 'dorong', 'kerja', 'riset', 'daulat', 'pangan', 'indonesia', 'megawati', 'soekarnoputri', 'saksi', 'penandatangan', 'mou', 'brin', 'kkp', 'jeju', 'national', 'university', 'daulat', 'pangan', 'indonesia']",pro
+66,"['megawati', 'aja']",netral
+67,"['megawati', 'diskriminasi', 'diri', 'rumah', 'ibadah']",pro
+68,"['presiden', 'ri', 'profdrhc', 'megawati', 'soekarnoputri', 'dorong', 'umat', 'dunia', 'cinta', 'lingkung', 'jaga', 'tumbuh', 'dunia', 'lingkung', 'hancur', 'punah']",pro
+69,"['efendi', 'simbolon', 'pintar', 'arogan', 'dikte', 'tni', 'bawah', 'megawati', 'tarik', 'dpr']",kontra
+70,"['megawati', 'tanam', 'pohon', 'jeju', 'makna', 'hubung', 'rikorea']",pro
+71,"['hacker', 'bjorka', 'tawar', 'nitizen', 'kompak', 'nama', 'megawati', 'trending', 'komentator', 'cahya', 'supriadi', 'malang', 'raya', 'kakang', 'becanda', 'mabuk', 'gigi']",kontra
+72,"['ganggu', 'maksud', 'beliau', 'negara', 'jual', 'aset', 'pemerintshan', 'megawati', 'logika', 'jual', 'aset', 'butuh', 'dana', 'cair', 'tanya', 'dana', 'cair', 'bayar', 'utang', 'blbi']",kontra
+73,"['presiden', 'ri', 'megawati', 'soekarnoputri', 'modernisasi', 'bidang', 'lupa', 'pelihara', 'lingkung', 'hid']",pro
+74,"['jokowi', 'asli', 'pribumi', 'jokowi', 'tiongkok', 'pki', 'aja', 'boneka', 'megawati', 'cukong', 'tertawa', 'makan', 'babi', 'minum', 'bir', 'pesta', 'semetara', 'kacung']",kontra
+75,"['jokowi', 'resmi', 'calon', 'pdi', 'juang', 'utk', 'presiden', 'putus', 'megawati']",kontra
+76,"['kalo', 'ga', 'isi', 'meme', 'puanmegawatijokowi', 'yg', 'edit', 'edit', 'wkwk', 'untung', 'ya']",kontra
+77,"['cerdas', 'nih', 'puan', 'temu', 'cak', 'imin', 'said', 'abdullah', 'bahas', 'pesan', 'megawati', 'ri']",pro
+78,[],netral
